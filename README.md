@@ -59,11 +59,11 @@ This is a Coding Solution for Tasks Dashboard App of Kieffer John M. Navarro.
 
 ## How to install the app locally
 - Make sure Composer, Node.js and XAMPP is installed on your local device.
-- Clone the repository using this link 
+- Clone the repository using this link https://github.com/kjmnavarro/exam-navarro
 
 ```
 
-git clone 
+git clone https://github.com/kjmnavarro/exam-navarro
 
 ```
 
